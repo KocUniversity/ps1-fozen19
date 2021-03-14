@@ -100,4 +100,3 @@ We provide some example test cases for you below. Note that there will be additi
 `3, 1242 -> 57`
 `5, 11223344 -> 9488`
 `8 99887766 -> 4` 
-
